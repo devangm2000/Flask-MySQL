@@ -1,1 +1,1 @@
-Internship Project to access MySQL Tables using Flask API
+Internship project to access MySQL tables and databases using Flask API
